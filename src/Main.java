@@ -1,5 +1,3 @@
-import java.nio.channels.FileLockInterruptionException;
-import java.util.List;
 
 import business.ProductManager;
 import core.logging.DatabaseLogger;
